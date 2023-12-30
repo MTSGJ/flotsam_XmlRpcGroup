@@ -1,3 +1,3 @@
 # flotsam_XmlRpcGroup
 
-* flotsam_XmlRpcGroup Improvement
+* flotsam_XmlRpcGroup Improvement for OpenSimulator
