@@ -1252,7 +1252,7 @@
         } else {
             $roleID = "";
         }
-        if (isset($params['AcceptNotice'])) {
+        if (isset($params['AcceptNotices'])) {
             $acceptNotices  = $params['AcceptNotices'];
         } else {
             $acceptNotices = "";
